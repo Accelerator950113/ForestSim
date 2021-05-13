@@ -1,5 +1,5 @@
 # ForestSim
-**--- code for "Fast and Effective Role Similarity Metric Based on Spanning Rooted Forest"**
+**--- code for "Role Similarity Metric Based on Spanning Rooted Forest"**
 ### Environment
 + Julia 1.5.3
 + Laplacians Package  
